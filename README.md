@@ -16,9 +16,12 @@ Appliquer les bonnes pratiques JPA
 
 Fournir une base solide pour une future API REST
 
-L'archetecture de projet :
+## L'archetecture de projet :
 
-<img width="1536" height="1024" alt="ChatGPT Image 2 mars 2026, 15_46_45" src="https://github.com/user-attachments/assets/681228eb-c477-496d-89fc-07ab0e86e0d3" />
+
+<img width="749" height="591" alt="Diagramme sans nom drawio (6)" src="https://github.com/user-attachments/assets/c7cb33c0-f06e-40e5-a568-f326fc80a704" />
+
+
 
 # -Uml :
 
@@ -28,11 +31,10 @@ L'archetecture de projet :
 
 <img width="665" height="317" alt="image" src="https://github.com/user-attachments/assets/3454fca6-6b46-4b19-870c-fbaa99099c45" />
 
-## -Diagramme de cas d'utilisation :
 
 
 
-<img width="1536" height="1024" alt="ChatGPT Image 2 mars 2026, 15_56_57" src="https://github.com/user-attachments/assets/e66fa5ca-75b4-4fc2-8f21-e4af7457be73" />
+
 
 
    # -Video Demo : 
